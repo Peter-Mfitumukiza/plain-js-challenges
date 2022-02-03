@@ -1,3 +1,4 @@
+// We are going to write a function which returns the passed number in reverse order
 
 function reverse(num){
     let numStr = num.toString();
